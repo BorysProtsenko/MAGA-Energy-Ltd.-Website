@@ -1,3 +1,7 @@
+# MAGA-Energy-Ltd.-Website
+
+A website completely rebuilt from the ground up for an Oil and Gas company based in Alberta.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
