@@ -1,0 +1,76 @@
+{
+  "home": "Home",
+  "about": "About",
+  "operations": "Operations",
+  "contact": "Contact",
+  "callUs": "Call Us",
+  "aboutTitle": "About MAGA Energy Ltd.",
+  "aboutSubtitle": "Built on innovation, integrity, and performance.",
+  "aboutText": "• MAGA Energy Ltd. (Make Alberta Great Again) is a private oil & gas production company based in Calgary, Alberta, with 20 employees and dedicated contractors. Current total production is approximately 1800 BOE/day with 55%/45% split of natural gas and liquid. MAGA's well count is approximately 350 with 80 producing wells. MAGA's land position consists of 100 sections or 64,000 acres (260 KM2), the majority of which carry a 100% working interest.\n• MAGA's business scope starts with a careful review of the geologic potential of each well and develop planned development to maximize the high quality medium to light oil and natural gas resources of all geologic zones. MAGA re-uses and recycles existing equipment and leases on the wells thus minimizing environmental impact by reducing new footprint on the land.\n• MAGA's scope also includes electric power generation using high efficiency natural gas fired generation. The company is positioning to capture carbon dioxide from its gas-fired power generation and use it for enhanced oil recovery thereby achieving a new standard in emissions intensity for dispatchable power and liquid petroleum resource recovery.\n• MAGA's core areas are just west and north of Edmonton which includes Acheson, Spruce Grove, Golden Spike, St. Albert, Campbell-Morinville and Westlock.\n• Due to the proximity of our operations to urban areas, MAGA has an unwavering commitment to be responsible stewards in our operational area. The company is governed by decisions that drive our strong record and minimizes our environmental footprint while making sound economic decisions. The most recent projects include site remediations working with local land owners and developers and utilizing the Government of Alberta's Site Rehabilitation Program to supplement the expenditures • MAGA's management team has different mentality and strategy on its future growth. The first priority is resume production of shut-in wells and develop by-passed oil & gas potential. Wells without economic potential will be abandoned as early as possible so the surface land owners can pursue their plans for the land.\n• MAGA is working on several gas-to-power generation projects that supply electricity to onsite datacentres and will recover the exhausted heat and CO2 to potential local greenhouse operators. This effort will benefit the local communities by creating more jobs and business opportunities while reducing the carbon footprint of the company operations.",
+  "leadership": "Our Leadership",
+
+  "leaderBiagioTitle": "President",
+  "leaderBiagioDesc": "Biagio Mele, P. Eng. President\nA senior energy professional with an entrepreneurial, passionate, and creative mindset. 30+ years of leadership, exploitation, acquisition, and reservoir engineering experience working for major and junior companies. Founded, led, and propelled Blaze Energy in 1995, an early stage private oil and gas company into an enterprise with a portfolio of midstream, upstream, and gas storage assets in the Western Canadian Sedimentary Basin. Completed acquisitions totaling C$163 million and dispositions totaling C$316 million, illustrating an ability to identify, negotiate, close, and successfully integrate assets. Previous experience from Dome, Opinac, Cimarron, Northern Reef and Berkley Petroleum.",
+
+  "leaderMarkTitle": "Vice President, Field Operations",
+  "leaderMarkDesc": "Mark Ross, P. Eng. - V.P. Operation\nMr. Ross who has 30+ years of operations engineering experience started with Mobil Oil in 1981 and worked in different locations such as Rainbow Lake, SE Sask., & Drayton Valley, as production engineer until 1992. Mark then founded Ross Energy Services which focused on providing well drilling & completions consulting to junior oil companies until 2015. He was instrumental in growing Houston Oil & Gas Ltd. from 150 BOE/d to 3000 BOE/d during 2015 to 2017 through distressed asset acquisitions and optimization. Mark was a Co-founder of Darkhorse Oil & Gas and Longbow Energy.",
+
+  "leaderDavidTitle": "Director at MAGA Energy Ltd.",
+  "leaderDavidDesc": "David Tian, M. Sc., Geologist - V.P. Exploitation\n30+ years petroleum geology experience and 20 years management experience. Excellent expertise and track record in by-passed pay exploitation with over 85% economic success rate. Co-founder of Canflame Energy, Darkhorse Oil & Gas, and Canstar Energy which realized 400% net rate of return within 18 months. Previous positions in exploration and geology with CNPC Canada & Bearspaw Petroleum whose F&D cost is only 10% of industry average and grew the company from 1,500 to 4,000 BOED during 1997-2002 through by-passed pay exploitation. Payout record is 10 days & the best oil well drill reached 1 MMB cumulative oil.",
+
+  "leaderPatrickTitle": "Chief Financial Officer (CFO)",
+  "leaderPatrickDesc": "Patrick Amantea, CFO\nMr. Amantea is Chartered Accountant with diverse oil and gas background. 15 year experience with financial & operational reporting, IFRS, budgeting & forecasting, leading people, internal controls, full cycle accounting, and business advisory services. Patrick has worked for both private and public companies; increasing roles of responsibility which included financial reporting, joint venture accounting, production accounting review, human resources, risk management, IT management, M&A advisory, payables, and system accounting.",
+
+  "heroTitle": "Maga Energy Ltd.",
+  "heroSubtitle": "Powering Alberta’s energy future with precision and integrity.",
+  "innovationTitle": "Innovation",
+  "innovationDesc": "We use modern tech to improve field efficiency, reduce emissions, and streamline operations.",
+  "sustainabilityTitle": "Sustainability",
+  "sustainabilityDesc": "Committed to responsible energy development that respects the land and local communities.",
+  "efficiencyTitle": "Efficiency",
+  "efficiencyDesc": "Lean operations with maximum production, safety, and regulatory compliance.",
+  
+  "operationsTitle": "Our Operations",
+  "operationsIntro": "Our operations span oil production, natural gas extraction, and Bitcoin mining. We leverage innovative technologies and efficient practices to deliver energy and digital assets, sometimes combining these activities at the same site for optimal resource utilization.",
+  "westlockDesc": "The Westlock Oil and Gas Field, located in central Alberta, has been a site of conventional oil and natural gas production. As of 2022, the field had cumulative oil production of approximately 0.34 million barrels and gas production of around 15,835 million cubic meters. Remaining reserves were estimated at 0.1 million barrels of oil and 345 million cubic meters of gas.",
+  "stAlbertDesc": "St. Albert, Campbell, and Morinville: These vibrant communities are at the heart of Alberta's energy corridor. Our operations here focus on innovative extraction techniques, community engagement, and sustainable resource management. The region is known for its collaborative spirit and forward-thinking approach to energy development.",
+  "ghostpineDesc": "",
+  "achesonDesc": "Acheson and Golden Spike: This cluster of fields represents a dynamic mix of legacy oil sites and new development. Our teams leverage advanced technology and decades of expertise to maximize production while minimizing environmental impact. These areas are a testament to Alberta's ongoing leadership in the energy sector.",
+  "pembinaDesc": "Pembina and Berrymoor: The Pembina field is one of Alberta's oldest and most prolific oil-producing regions, known for its significant contributions to the province's energy sector since the 1950s. Berrymoor is a smaller, established field with a history of conventional oil and gas production, supporting local industry and communities.",
+  "berrymoorDesc": "",
+  "tofieldDesc": "Tofield: Located in central Alberta, Tofield has a history of oil and gas development supporting the region's energy sector. The area has seen both conventional production and new technology applications, contributing to local industry and community growth.",
+  
+  "contactTitle": "Contact Us",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send Message",
+  "confirmation": "Email client opened. You can now send your message.",
+  "phone": "Phone",
+  "emailLabel": "Email",
+  "emergency": "24 Hour Emergency Number",
+  "placeholderName": "Your full name",
+  "placeholderMessage": "Type your message here...",
+  "btcMining": "BTC Mining",
+  "oil": "Oil",
+  "gas": "Gas",
+  "miniWestlockInfo": "Westlock & Acheson: Producing ~6 MMCF/day (170 e3m3/day) of gas.",
+  "miniStAlbertInfo": "St. Albert/Morinville: 7 MMCF/day (198 e3m3/day) of gas is currently shut-in. Potential for 80-100 MW power generation.",
+  "miniAchesonInfo": "Acheson: 800 MCF/day of gas supplied to 5 MW Campbell mining facility.",
+  "miniPembinaInfo": "Pembina area: No current production data available.",
+  "miniTofieldInfo": "Tofield: No current production data available.",
+  "opportunities": "Opportunities",
+  "businessOpportunitiesTitle": "Business Opportunities",
+  "g2pTitle": "G2P for Data Center/AI/Crypto Currencies Mining:",
+  "g2pText": "Currently MAGA Energy has 8 MWh G2P running for the BTC mining partners and recently granted additional 9 MWh power plant permit from AUC. MAGA has significant shut-in gas capacities and welcomes the interested parties to discuss future business opportunities.",
+  "resourcesTitle": "Resources Development:",
+  "resourcesText1": "MAGA owns 135,000 acres (540 km2) of petroleum and natural gas mineral leases and there is close to 300 million barrels of OOIP (original oil in place) and most of these resources is light to medium oil and proved by existing vertical well data and bypassed by the previous operators. The new technology such as horizontal well + multistage fracturing or multi-lateral horizontal wells will significantly increase the production and recoverable oil reserves and create robust economic return for the investors.",
+  "resourcesText2": "MAGA is actively looking for potential joint venture partners for the resource development and creating win-win opportunities.",
+  "businessOpportunitiesMain": "Business Opportunities",
+  "g2pMain": "G2P for Data Center/AI/Crypto Currencies Mining:\nCurrently MAGA Energy has 8 MWh G2P running for the BTC mining partners and recently granted additional 9 MWh power plant permit from AUC. MAGA has significant shut-in gas capacities and welcomes the interested parties to discuss future business opportunities.",
+  "resourcesMain": "Resources Development:\nMAGA owns 135,000 acres (540 km2) of petroleum and natural gas mineral leases and there is close to 300 million barrels of OOIP (original oil in place) and most of these resources is light to medium oil and proved by existing vertical well data and bypassed by the previous operators. The new technology such as horizontal well + multistage fracturing or multi-lateral horizontal wells will significantly increase the production and recoverable oil reserves and create robust economic return for the investors.\nMAGA is actively looking for potential joint venture partners for the resource development and creating win-win opportunities."
+
+
+
+
+}
